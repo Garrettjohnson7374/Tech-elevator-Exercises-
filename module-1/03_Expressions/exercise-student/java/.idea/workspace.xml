@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23733525-226d-4bd3-96ce-05c7ab811f89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1n1SSd3OxGwvqExOWFsz4FOX5dl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.ExercisesTest.answerCell">
+    <configuration name="ExercisesTest.answerCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d03-expressions-and-control-flow-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.ExercisesTest" />
+      <option name="METHOD_NAME" value="answerCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercisesTest.less20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d03-expressions-and-control-flow-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.ExercisesTest" />
+      <option name="METHOD_NAME" value="less20" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercisesTest.nearTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d03-expressions-and-control-flow-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.ExercisesTest" />
+      <option name="METHOD_NAME" value="nearTen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercisesTest.old35" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d03-expressions-and-control-flow-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.ExercisesTest" />
+      <option name="METHOD_NAME" value="old35" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercisesTest.teenSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d03-expressions-and-control-flow-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.ExercisesTest" />
+      <option name="METHOD_NAME" value="teenSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExercisesTest.answerCell" />
+        <item itemvalue="JUnit.ExercisesTest.teenSum" />
+        <item itemvalue="JUnit.ExercisesTest.nearTen" />
+        <item itemvalue="JUnit.ExercisesTest.less20" />
+        <item itemvalue="JUnit.ExercisesTest.old35" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/Exercises.java</url>
+          <line>554</line>
+          <properties class="com.techelevator.Exercises" method="twoAsOne">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/Exercises.java</url>
+          <line>565</line>
+          <properties class="com.techelevator.Exercises" method="inOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/Exercises.java</url>
+          <line>577</line>
+          <properties class="com.techelevator.Exercises" method="inOrderEqual">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/Exercises.java</url>
+          <line>588</line>
+          <properties class="com.techelevator.Exercises" method="loneSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/Exercises.java</url>
+          <line>602</line>
+          <properties class="com.techelevator.Exercises" method="luckySum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/Exercises.java</url>
+          <line>542</line>
+          <properties class="com.techelevator.Exercises" method="teaParty">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techelevator/Exercises.java</url>
+          <line>582</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

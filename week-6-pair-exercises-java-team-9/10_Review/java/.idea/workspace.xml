@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8a616a6-5fc8-4682-ba71-96db2950d09d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ohj7crcNMAAFOCGFtmzelK0BXJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.JDBCSiteDAOTests.getAvailableSites_Should_ReturnSites">
+    <configuration name="JDBCReservationDAOTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-week-2-review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.dao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.dao.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.dao.jdbc.JDBCReservationDAOTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCReservationDAOTests.createReservation_Should_ReturnNewReservationId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-week-2-review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.dao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.dao.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.dao.jdbc.JDBCReservationDAOTests" />
+      <option name="METHOD_NAME" value="createReservation_Should_ReturnNewReservationId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCReservationDAOTests.upcoming_reservation_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-week-2-review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.dao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.dao.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.dao.jdbc.JDBCReservationDAOTests" />
+      <option name="METHOD_NAME" value="upcoming_reservation_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCSiteDAOTests.getAvailableSites_Should_ReturnSites" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-week-2-review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.dao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.dao.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.dao.jdbc.JDBCSiteDAOTests" />
+      <option name="METHOD_NAME" value="getAvailableSites_Should_ReturnSites" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCSiteDAOTests.getSitesThatAllowRVs_Should_ReturnSites" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m02-week-2-review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.dao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator.dao.jdbc" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.dao.jdbc.JDBCSiteDAOTests" />
+      <option name="METHOD_NAME" value="getSitesThatAllowRVs_Should_ReturnSites" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JDBCSiteDAOTests.getAvailableSites_Should_ReturnSites" />
+        <item itemvalue="JUnit.JDBCReservationDAOTests.upcoming_reservation_test" />
+        <item itemvalue="JUnit.JDBCReservationDAOTests.createReservation_Should_ReturnNewReservationId" />
+        <item itemvalue="JUnit.JDBCReservationDAOTests" />
+        <item itemvalue="JUnit.JDBCSiteDAOTests.getSitesThatAllowRVs_Should_ReturnSites" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

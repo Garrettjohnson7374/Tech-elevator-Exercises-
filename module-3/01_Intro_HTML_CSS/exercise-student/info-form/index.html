@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>info page</title>
+</head>
+<main>
+    <link rel="stylesheet" href="css/style.css">
+    <h2>Information Form</h2>
+    <form method="POST" action="/api/infoform">
+        <div>
+            <label for="Name">Name:</label>
+            <input id="Name" name="Name" type="text" required />
+        </div>
+
+        <div>
+            <label for="email">Email:</label>
+            <input id="email" name="email" type="text"required />
+        </div>
+        <div>
+            <label for="birthDate">Birth Date:</label>
+                <input id="birthDate" name="birthDate" type="date"/>
+            </div>
+            <div>
+                <label for="favoriteColor">Favourite color:</label>
+                <input id="favoriteColor" name="favoriteColor" type="text"/>
+            </div>
+            <div>
+                <label for="favoriteNumber">Favourite number:</label>
+                <input id="favoriteNumber" name="favoriteNumber" type="number"/>
+            </div>
+            <div>
+            <label for="Bees">Bees?</label>
+            <input id="Bees" name="Bees" type="checkbox"/>
+        </div>
+        <div>
+            <input type="submit" onclick="return confirm('Are you sure?')" />
+        </div>
+
+    </form>
+</main>
+</html>
